@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage       = "https://github.com/dzenbot/DZNWebViewController"
   s.license        = { :type => 'MIT', :file => 'LICENSE' }
   s.author         = { "Ignacio Romero Z." => "iromero@dzen.cl" }
-  s.source         = { :git => "https://github.com/dzenbot/DZNWebViewController.git", :tag => "v#{s.version}" }
+  s.source         = { :git => "https://github.com/emersonwood/DZNWebViewController.git", :tag => "v#{s.version}" }
 
   s.platform       = :ios, '8.0'
   s.requires_arc   = true
